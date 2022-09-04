@@ -2,11 +2,6 @@
 ## Description
 This webpage is an abbreviated study guide on HTML, CSS, GIT, and JavaScript. The project allowed a beginning bootcamp student the opportunity to use what was taught through the prework assignment. 
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 N/A
 
